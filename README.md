@@ -1,5 +1,2 @@
-# uSkyBlock-Core
-
-This module the primary code for the uSkyBlock plugin.
-
-All business logic is done here.
+uSkyBlock 汉化计划
+汉化文本在 i18n.jar 里面的zh_CN里面
